@@ -15,9 +15,7 @@ python main.py
 
 ## Crédit
 Réalisé par : 
-- Mathias Patarozzi
-- Yoan Cochet
-- Alex Orsini
+- Mathias 
+- Yoan 
+- Alex 
 - Mathilde
-
-© La team des nuls
